@@ -1,6 +1,6 @@
 # How to work with shortcuts on the client side
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1137)**
+**[[Run Online]](https://codecentral.devexpress.com/e1137/)**
 <!-- run online end -->
 
 
